@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(72, 20, 56);
+    text-align: center;
+    border: 10px outset rgb(27, 252, 244);
+}
+h1 {
+  color: rgb(242, 0, 255);
+}
+p1 {
+  color: rgb(23, 214, 122);
+}
